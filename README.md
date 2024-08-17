@@ -46,4 +46,3 @@ Para executar os testes, use o comando:
 ```bash
 php vendor/bin/codecept run
 ```
-```
